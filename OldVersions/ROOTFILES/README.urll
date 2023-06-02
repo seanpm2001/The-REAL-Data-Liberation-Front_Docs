@@ -1,5 +1,6 @@
 /.github/
 /.gitlab/
+/Compliance/
 /Docs/
 /OldVersions/
 /RepoData/
@@ -25,10 +26,14 @@
 /LICENSE-GPL.txt
 /LICENSE-GPL3.txt
 /LICENSE.txt
+/Raised-Fist-Emoji.png
+/RealDatabaseLF.png
 /README.md
 /ROOTFILES.base
 /SECURITY.md
 /SponsorButton.png
+/TRDLF_1024pxIcon_NoWordmark_V1_HighCompression.png
+/TRDLF_1024pxIcon_WithWordmark_V1_HighCompression.png
 /_config.yml
 /desktop.ini
 /gitlab-ci.yml
