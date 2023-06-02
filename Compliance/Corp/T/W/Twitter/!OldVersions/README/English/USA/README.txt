@@ -5,17 +5,18 @@
 
 **PATH:** /// ***Corporations*** / ***TW*** / ***Twitter***
 
-- **Status:** `Currently being tested, some hostility found`
-- **Checks passed:** `1` / `6` _(as of 2023, Thursday, June 1st)_
+- **Status:** `Test completed, some hostility found, Twitter is failing`
+- **Checks passed:** `4` / `6` _(as of 2023, Thursday, June 1st)_
 
 | Test conditions | Result |
 |---|---|
-| Data can be taken out without a fee | `✅️` |
-| Data can be taken out | `❓️` |
-| Data can be taken out in full | `❓️` |
-| Data doesn't require hostile authorization for takeout | `❌️` |
-| Data can be taken out over the course of 1 month or longer | `❓️` |
-| Data can be taken out in a recognizable, standard format (such as JSON or ZIP) | `❓️` |
+| [`Data can be taken out without a fee`](#fees) | `✅️` |
+| [`Data can be taken out`](#takeout) | `✅️` |
+| [`Data can be taken out in full`](#takeout-in-full) | `✅️` |
+| [`Data doesn't require hostile authorization for takeout`](#hostile-authorization) | `❌️` |
+| [`Data can be taken out over the course of 1 month or longer`](#one-month-takeout-time) | `❌️` |
+| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#standard-format) | `✅️` |
+
 
 ## Fees
 
@@ -23,11 +24,11 @@ Data can be taken out without any financial information input, or payments
 
 ## Takeout
 
-It is currently being tested if data can be taken out at all.
+Data can be taken out, a 33 MiB data takeout took exactly 24 hours.
 
 ## Takeout in full
 
-It is currently being tested if data can be taken out in full
+Data takeout can be done in full, and offline functionality is incredibly good. All media is archived, along with tweets, likes, follows, etc. and is completely browser friendly offline.
 
 ## Hostile authorization
 
@@ -35,11 +36,11 @@ As of 2023, June 1st, Twitter requires you to enter credentials multiple times b
 
 ## One month takeout time
 
-It is currently being tested if data takeout can be done for a full month or longer.
+The user is only given 1 week to take out data, as of 2023, June 1st.
 
 ## Standard format
 
-It is currently being tested if data can be taken out in a standard format.
+Data can be taken out in a standard format.
 
 Standard formats include, but are not limited to:
 
@@ -52,11 +53,11 @@ Standard formats must have high levels of recognition, and cannot be a special f
 ## Overview
 
 - [x] Data can be taken out without a fee (passes)
-- [ ] Data can be taken out (unknown)
-- [ ] Data can be taken out in full (unknown)
+- [x] Data can be taken out (passes)
+- [x] Data can be taken out in full (passes)
 - [ ] Doesn't require excess authorization for takeout (fails)
-- [ ] Data cannot be taken out over the course of 1 month (unknown)
-- [ ] Data can be taken out in a recognizable, standard format (unknown)
+- [ ] Data cannot be taken out over the course of 1 month (fails)
+- [x] Data can be taken out in a recognizable, standard format (passes)
 
 ## Opinion and motivation
 
@@ -68,6 +69,6 @@ I am starting with Twitter, as I am currently downloading an archive of my Twitt
 
 # File info
 
-**File version:** `1 (2023, Thursday, June 1st at 6:43 pm PST)`
+**File version:** `2 (2023, Thursday, June 1st at 7:42 pm PST)`
 
 ***
