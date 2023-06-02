@@ -11,12 +11,12 @@
 
 | Test conditions | Result |
 |---|---|
-| [`Data can be taken out without a fee`](#Fees) | `✅️` |
-| [`Data can be taken out`](#Takeout) | `✅️` |
-| [`Data can be taken out in full`](#Takeout-in-full) | `❌️` |
-| [`Data doesn't require hostile authorization for takeout`](#Hostile-authorization) | `✅️` |
-| [`Data can be taken out over the course of 1 month or longer`](#One-month-takeout-time) | `❌️` |
-| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#Standard-format) | `✅️` |
+| [`Data can be taken out without a fee`](#fees) | `✅️` |
+| [`Data can be taken out`](#takeout) | `✅️` |
+| [`Data can be taken out in full`](#takeout-in-full) | `❌️` |
+| [`Data doesn't require hostile authorization for takeout`](#hostile-authorization) | `✅️` |
+| [`Data can be taken out over the course of 1 month or longer`](#one-month-takeout-time) | `❌️` |
+| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#standard-format) | `✅️` |
 
 ## Fees
 
@@ -74,6 +74,10 @@ Google is the second target for data takeout entries. I am starting with all of 
 
 # File info
 
-**File version:** `1 (2023, Thursday, June 1st at 6:52 pm PST)`
+**File version:** `2 (2023, Thursday, June 1st at 6:55 pm PST)`
+
+<!--
+V2: Attempting to fix anchor links
+!-->
 
 ***
