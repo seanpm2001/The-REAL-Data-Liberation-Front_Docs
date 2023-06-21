@@ -6,7 +6,20 @@
 **PATH:** /// ***Corporations*** / ***TW*** / ***Twitter***
 
 - **Status:** `Test completed, some hostility found, Twitter is failing`
-- **Checks passed:** `4` / `6` _(as of 2023, Thursday, June 1st)_
+- **Checks passed:** `4` / `6` _(as of 2023, Tuesday, June 20th)_
+
+<details><summary><p><b>Tested 6 times (2023, June 1st to 2023, June 20th)</b></p></summary>
+
+- `@seanwallawalla` Data takeout on 2023, June 1st [Score: 4/6]
+- `@seanwallawalla2` Data takeout on 2023, June 6th [Score: 4/6]
+- `@seanwallawallaA` Data takeout on 2023, June 13th [Score: 4/6]
+- `@seanwallawallaB` Data takeout on 2023, June 13th [Score: 4/6]
+- `@seanwallawallaE` Data takeout on 2023, June 20th [Score: 4/6]
+- `@seanwallawallaL` Data takeout on 2023, June 20th [Score: 4/6]
+
+> **Note** _See [:octocat: `seanpm2001/Twitter`](https://github.com/seanpm2001/Twitter/) and [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
+
+</details>
 
 | Test conditions | Result |
 |---|---|
@@ -24,7 +37,7 @@ Data can be taken out without any financial information input, or payments
 
 ## Takeout
 
-Data can be taken out, a 33 MiB data takeout took exactly 24 hours.
+Data can be taken out, a 33 MiB data takeout took exactly 24 hours. A 9 MiB data takeout also took exactly 24 hours.
 
 ## Takeout in full
 
@@ -36,7 +49,7 @@ As of 2023, June 1st, Twitter requires you to enter credentials multiple times b
 
 ## One month takeout time
 
-The user is only given 1 week to take out data, as of 2023, June 1st.
+The user is only given 1 week to take out data, as of 2023, June 20th.
 
 ## Standard format
 
@@ -69,6 +82,6 @@ I am starting with Twitter, as I am currently downloading an archive of my Twitt
 
 # File info
 
-**File version:** `2 (2023, Thursday, June 1st at 7:42 pm PST)`
+**File version:** `3 (2023, Tuesday, June 20th at 09:50 pm PST)`
 
 ***
