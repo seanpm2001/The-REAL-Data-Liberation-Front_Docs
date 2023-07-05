@@ -7,19 +7,31 @@
 
 This is a database of reports of data takeout compliance by websites run by corporations.
 
-**Total count:** `3`
+**Total count:** `5`
+
+# [Table of Contents](#Table-of-contents)
+
+( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
 
 ## [DI](#DI)
 
-[`Discord`](/Compliance/Corp/D/I/Discord/)
+- [`Discord`](/Compliance/Corp/D/I/Discord/)
 
 ## [GO](#GO)
 
-[`Google`](/Compliance/Corp/G/O/Google/)
+- [`Google`](/Compliance/Corp/G/O/Google/)
+
+## [QU](#QU)
+
+- [`Quora`](/Compliance/Corp/Q/U/Quora/)
+
+## [RE](#RE)
+
+- [`Reddit`](/Compliance/Corp/R/E/Rddit/)
 
 ## [TW](#TW)
 
-[`Twitter`](/Compliance/Corp/T/W/Twitter/)
+- [`Twitter`](/Compliance/Corp/T/W/Twitter/)
 
 More entries will be added in the future.
 
@@ -33,17 +45,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Wednesday, June 28th at 11:29 am PST)`
+**File version:** `3 (2023, Wednesday, July 5th at 04:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `129`
+**Line count (including blank lines and compiler line):** `167`
 
-**Word count:** `561`
+**Word count:** `775`
 
-**Character count (including spaces):** `3,568`
+**Character count (including spaces):** `4,916`
 
-**Character count (excluding spaces):** `3,018`
+**Character count (excluding spaces):** `4,148`
 
-**Size (in bytes):** `3,568`
+**Size (in bytes):** `4,916`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -112,6 +124,32 @@ More entries will be added in the future.
 - - [x] Added an entry for version 2
 - [x] Added the footer
 - [ ] No other changes in version 2
+
+</details>
+
+## [Version 3 (2023, Wednesday, July 5th at 04:56 pm PST)](#Version-3-2023-Wednesday-July-5th-at-04-56-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 3</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Added the `Table of Contents` microsection
+- - [x] Added support for Quora
+- - [x] Added support for Reddit
+- - [x] Updated the counter (value: 5)
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
