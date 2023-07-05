@@ -7,7 +7,8 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (3 entries)`](/Compliance/Corp/)
+- [`Corporations (5 entries)`](/Compliance/Corp/)
+- [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
 </details>
@@ -20,17 +21,17 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Wednesday, June 28th at 11:24 am PST)`
+**File version:** `3 (2023, Wednesday, July 5th at 04:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `114`
+**Line count (including blank lines and compiler line):** `140`
 
-**Word count:** `530`
+**Word count:** `687`
 
-**Character count (including spaces):** `3,379`
+**Character count (including spaces):** `4,349`
 
-**Character count (excluding spaces):** `2,858`
+**Character count (excluding spaces):** `3,666`
 
-**Size (in bytes):** `3,379`
+**Size (in bytes):** `4,349`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -69,7 +70,7 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 ## [Version 2 (2023, Wednesday, June 28th at 11:24 am PST)](#Version-2-2023-Wednesday-June-28th-at-11-24-am-PST)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 1</u></b></p></summary>
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 2</u></b></p></summary>
 
 **This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -77,7 +78,7 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 - [x] Added anchor links to all headings
 - [x] Converted all sections to dropdown sections
-- [x] Ipdated the main list
+- [x] Updated the main list
 - [x] Updated the file info section
 - - [x] Converted to a dropdown section
 - - [x] Added the file type
@@ -97,6 +98,31 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - - [x] Added an entry for version 2
 - [x] Added the footer
 - [ ] No other changes in version 2
+
+</details>
+
+## [Version 3 (2023, Wednesday, July 5th at 04:48 pm PST)](#Version-3-2023-Wednesday-July-5th-at-04-48-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 3</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to 5
+- - [x] Added the organization link and set the count to 0
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Updated the entry for version 2 to fix some typos
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
