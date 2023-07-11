@@ -7,12 +7,12 @@
 
 **PATH:** /// ***Corporations*** / ***RE*** / ***Reddit***
 
-- **Status:** `Test in progress, Reddit is failing`
-- **Checks passed:** `0` / `6` (4 checks in progress) _(as of 2023, Wednesday, July 5th)_
+- **Status:** `Test 1 completed, Reddit is failing`
+- **Checks passed:** `3` / `6` _(as of 2023, Tuesday, July 11th)_
 
-<details><summary><p><b>Tested 1 time (2023, July 3rd)</b></p></summary>
+<details><summary><p><b>Tested 1 time (2023, July 3rd to 2023 July 11th)</b></p></summary>
 
-- `@seanwallawalla` Data takeout on 2023, July 3rd [Score: ?/6]
+- `@seanwallawalla` Data takeout on 2023, July 3rd to 2023, July 11th [Score: 3/6]
 
 > **Note** _See [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
 
@@ -26,12 +26,12 @@
 
 | Test conditions | Result |
 |---|---|
-| [`Data can be taken out without a fee`](#Fees) | `❓️` |
-| [`Data can be taken out`](#Takeout) | `❓️` |
-| [`Data can be taken out in full`](#Takeout-in-full) | `❓️` |
+| [`Data can be taken out without a fee`](#Fees) | `✅️` |
+| [`Data can be taken out`](#Takeout) | `✅️` |
+| [`Data can be taken out in full`](#Takeout-in-full) | `❌️` |
 | [`Data doesn't require hostile authorization for takeout`](#Hostile-authorization) | `❌️` |
 | [`Data can be taken out over the course of 1 month or longer`](#One-month-takeout-time) | `❌️` |
-| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#Standard-format) | `❓️` |
+| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#Standard-format) | `✅️` |
 
 </details>
 
@@ -43,9 +43,9 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending. I was able to send the request, but I cannot yet confirm if fees are a requirement.
+Data can be taken out without a fee.
 
 </details>
 
@@ -55,9 +55,9 @@ No data is available, as this check is still pending. I was able to send the req
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending.
+Data takeouts are possible, although they take quite a long time.
 
 </details>
 
@@ -67,9 +67,9 @@ No data is available, as this check is still pending.
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `❌️ Failure`
 
-No data is available, as this check is still pending.
+Data cannot be taken out in full. All metadata, post, account, and text data can be taken out, but images and videos cannot, and the data takeout is not in a very accessble format, although it still is a standard format.
 
 </details>
 
@@ -103,9 +103,9 @@ Data can only be taken out for 1 week.
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending.
+Data can be taken out in a standard format. A ZIP file is given that consists entirely of CSV files.
 
 Standard formats include, but are not limited to:
 
@@ -123,14 +123,14 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Checks passed:** `0` / `6` (`00.00%`)
+> **Checks passed:** `3` / `6` (`50.00%`)
 
-- [ ] Data can be taken out without a fee (pending)
-- [ ] Data can be taken out (pending)
-- [ ] Data can be taken out in full (pending)
+- [x] Data can be taken out without a fee (sucess)
+- [x] Data can be taken out (sucess)
+- [ ] Data can be taken out in full (fails)
 - [ ] Doesn't require excess authorization for takeout (fails)
 - [ ] Data cannot be taken out over the course of 1 month (fails)
-- [ ] Data can be taken out in a recognizable, standard format (pending)
+- [x] Data can be taken out in a recognizable, standard format (sucess)
 
 </details>
 
@@ -142,17 +142,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, July 5th at 04:53 pm PST)`
+**File version:** `2 (2023, Tuesday, July 11th at 04:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `258`
 
-**Word count:** `1,131`
+**Word count:** `1,337`
 
-**Character count (including spaces):** `7,232`
+**Character count (including spaces):** `8,469`
 
-**Character count (excluding spaces):** `6,094`
+**Character count (excluding spaces):** `7,123`
 
-**Size (in bytes):** `7,280`
+**Size (in bytes):** `8,517`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -210,6 +210,37 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - - [x] Added an entry for version 1
 - [x] Added the footer
 - [ ] No other changes in version 1
+
+</details>
+
+## [Version 2 (2023, Tuesday, July 11th at 04:52 pm PST)](#Version-2-2023-Tuesday-July-11th-at-04-52-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 2</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Started the file
+- [x] Updated the title section
+- [x] Updated the test conditions section
+- [x] Updated the fees section
+- [x] Updated the takeout section
+- [x] Updated the takeout in full section
+- [x] Added the hostile authorization section
+- [x] Added the one month takeout time section
+- [x] Updated the standard format section
+- [x] Updated the overview section
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
