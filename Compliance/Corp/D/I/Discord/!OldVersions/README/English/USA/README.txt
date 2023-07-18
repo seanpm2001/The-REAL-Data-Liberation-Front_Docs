@@ -8,15 +8,18 @@
 **PATH:** /// ***Corporations*** / ***DI*** / ***Discord***
 
 - **Status:** `Test completed, some problems found, Discord is failing`
-- **Checks passed:** `5` / `6` _(as of 2023, Monday, June 26th)_
+- **Checks passed:** `5` / `6` _(as of 2023, Tuesday, July 18th)_
 
-<details><summary><p><b>Tested 1 time (2023, June 26th)</b></p></summary>
+<details><summary><p><b>Tested 2 times</b></p></summary>
 
 - `@seanwallawalla` Data takeout on 2023, June 26th [Score: 5/6]
+- `@seanwallawalla` Data takeout on 2023, July 14th [Score: 5/6]
 
 > **Note** _See [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
 
+<!--
 > **Note** _I was a day late on creating this entry, as I didn't have the time yesterday (2023, Tuesday, June 27th) - 2023, Wednesday, June 28th_
+!-->
 
 </details>
 
@@ -142,17 +145,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, June 28th at 11:41 am PST)`
+**File version:** `2 (2023, Tuesday, July 18th at 03:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `256`
 
-**Word count:** `1,095`
+**Word count:** `1,255`
 
-**Character count (including spaces):** `7,036`
+**Character count (including spaces):** `8,041`
 
-**Character count (excluding spaces):** `5,945`
+**Character count (excluding spaces):** `6,784`
 
-**Size (in bytes):** `7,084`
+**Size (in bytes):** `8,089`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -170,7 +173,7 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 # [File history](#File-history)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 ## [Version 1 (2023, Wednesday, June 28th at 11:41 am PST)](#Version-1-2023-Wednesday-June-28th-at-11-41-am-PST)
 
@@ -210,6 +213,32 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - - [x] Added an entry for version 1
 - [x] Added the footer
 - [ ] No other changes in version 1
+
+</details>
+
+## [Version 2 (2023, Tuesday, July 18th at 03:58 pm PST)](#Version-2-2023-Tuesday-July-18th-at-03-58-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 2</u></b></p></summary>
+
+> **Note** _Updating this file to reflect the second data backup, which did not alter the results at all._
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the title section
+- [x] Updated the test conditions section
+- [x] Updated the file info section
+- - [x] Converted to a dropdown section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
