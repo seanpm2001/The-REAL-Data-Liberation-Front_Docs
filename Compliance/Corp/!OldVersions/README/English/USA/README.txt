@@ -7,11 +7,11 @@
 
 This is a database of reports of data takeout compliance by websites run by corporations.
 
-**Total count:** `5`
+**Total count:** `6`
 
 # [Table of Contents](#Table-of-contents)
 
-( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
+( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TU](#TU) [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
 
 ## [DI](#DI)
 
@@ -27,7 +27,11 @@ This is a database of reports of data takeout compliance by websites run by corp
 
 ## [RE](#RE)
 
-- [`Reddit`](/Compliance/Corp/R/E/Rddit/)
+- [`Reddit`](/Compliance/Corp/R/E/Reddit/)
+
+## [TU](#TU)
+
+- [`Tumblr`](/Compliance/Corp/T/U/Tumblr/)
 
 ## [TW](#TW)
 
@@ -45,17 +49,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Wednesday, July 5th at 04:56 pm PST)`
+**File version:** `4 (2023, Tuesday, July 18th at 03:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `167`
+**Line count (including blank lines and compiler line):** `198`
 
-**Word count:** `775`
+**Word count:** `941`
 
-**Character count (including spaces):** `4,916`
+**Character count (including spaces):** `5,955`
 
-**Character count (excluding spaces):** `4,148`
+**Character count (excluding spaces):** `5,016`
 
-**Size (in bytes):** `4,916`
+**Size (in bytes):** `5,955`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -73,7 +77,7 @@ More entries will be added in the future.
 
 # [File history](#File-history)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 ## [Version 1 (2023, Thursday, June 1st at 7:03 pm PST)](#Version-1-2023-Thursday-June-1st-at-7-03-pm-PST)
 
@@ -150,6 +154,33 @@ More entries will be added in the future.
 - [x] Updated the file history section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+## [Version 4 (2023, Tuesday, July 18th at 03:49 pm PST)](#Version-3-2023-Tuesday-July-18th-at-03-49-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
+
+> **Note** _There was no update to this file last week. I initially got confused by this._
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the `Table of Contents` microsection
+- - [x] Added support for Tumblr
+- - [x] Updated the counter (value: 6)
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
