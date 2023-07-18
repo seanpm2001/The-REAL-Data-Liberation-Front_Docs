@@ -7,7 +7,7 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (5 entries)`](/Compliance/Corp/)
+- [`Corporations (6 entries)`](/Compliance/Corp/)
 - [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
@@ -21,17 +21,17 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Wednesday, July 5th at 04:48 pm PST)`
+**File version:** `4 (2023, Tuesday, July 18th at 03:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `140`
+**Line count (including blank lines and compiler line):** `165`
 
-**Word count:** `687`
+**Word count:** `833`
 
-**Character count (including spaces):** `4,349`
+**Character count (including spaces):** `5,242`
 
-**Character count (excluding spaces):** `3,666`
+**Character count (excluding spaces):** `4,409`
 
-**Size (in bytes):** `4,349`
+**Size (in bytes):** `5,242`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -123,6 +123,31 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - - [x] Updated the entry for version 2 to fix some typos
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+## [Version 4 (2023, Tuesday, July 18th at 03:45 pm PST)](#Version-3-2023-Tuesday-July-18th-at-03-45-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
+
+> **Note** _There was no update to this file last week. I initially got confused by this._
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to 6
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
