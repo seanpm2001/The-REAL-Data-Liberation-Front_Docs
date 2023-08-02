@@ -7,7 +7,7 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (6 entries)`](/Compliance/Corp/)
+- [`Corporations (7 entries)`](/Compliance/Corp/)
 - [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
@@ -21,17 +21,17 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, July 18th at 03:45 pm PST)`
+**File version:** `5 (2023, Tuesday, August 1st at 06:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `165`
+**Line count (including blank lines and compiler line):** `189`
 
-**Word count:** `833`
+**Word count:** `0,971`
 
-**Character count (including spaces):** `5,242`
+**Character count (including spaces):** `6,089`
 
-**Character count (excluding spaces):** `4,409`
+**Character count (excluding spaces):** `5,115`
 
-**Size (in bytes):** `5,242`
+**Size (in bytes):** `6,089`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -126,7 +126,7 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 </details>
 
-## [Version 4 (2023, Tuesday, July 18th at 03:45 pm PST)](#Version-3-2023-Tuesday-July-18th-at-03-45-pm-PST)
+## [Version 4 (2023, Tuesday, July 18th at 03:45 pm PST)](#Version-4-2023-Tuesday-July-18th-at-03-45-pm-PST)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
 
@@ -148,6 +148,30 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - [x] Updated the file history section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+## [Version 5 (2023, Tuesday, August 1st at 06:42 pm PST)](#Version-5-2023-Tuesday-August-1st-at-06-42-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 5</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to 7
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Updated the entry for version 4
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
