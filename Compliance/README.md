@@ -7,7 +7,7 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (7 entries)`](/Compliance/Corp/)
+- [`Corporations (7 entries, 8 services)`](/Compliance/Corp/)
 - [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
@@ -21,17 +21,17 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Tuesday, August 1st at 06:42 pm PST)`
+**File version:** `6 (2023, Wednesday, August 2nd at 12:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `189`
+**Line count (including blank lines and compiler line):** `212`
 
-**Word count:** `0,971`
+**Word count:** `1,114`
 
-**Character count (including spaces):** `6,089`
+**Character count (including spaces):** `6,974`
 
-**Character count (excluding spaces):** `5,115`
+**Character count (excluding spaces):** `5,855`
 
-**Size (in bytes):** `6,089`
+**Size (in bytes):** `6,974`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -172,6 +172,29 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - - [x] Updated the entry for version 4
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+## [Version 6 (2023, Wednesday, August 2nd at 12:43 pm PST)](#Version-6-2023-Wednesday-August-2nd-at-12-43-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to include a service count of 8, alongside a corporation count of 7
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
