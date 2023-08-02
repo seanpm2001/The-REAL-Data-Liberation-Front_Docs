@@ -7,11 +7,11 @@
 
 This is a database of reports of data takeout compliance by websites run by corporations.
 
-**Total count:** `6`
+**Total count:** `7`
 
 # [Table of Contents](#Table-of-contents)
 
-( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TU](#TU) [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
+( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** [PR](#PR) **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TU](#TU) [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
 
 ## [DI](#DI)
 
@@ -20,6 +20,10 @@ This is a database of reports of data takeout compliance by websites run by corp
 ## [GO](#GO)
 
 - [`Google`](/Compliance/Corp/G/O/Google/)
+
+## [PR](#PR)
+
+- [`ProtonMail`](/Compliance/Corp/P/R/ProtonMail/)
 
 ## [QU](#QU)
 
@@ -49,17 +53,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, July 18th at 03:49 pm PST)`
+**File version:** `5 (2023, Tuesday, August 1st at 07:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `198`
+**Line count (including blank lines and compiler line):** `228`
 
-**Word count:** `941`
+**Word count:** `1,100`
 
-**Character count (including spaces):** `5,955`
+**Character count (including spaces):** `6,694`
 
-**Character count (excluding spaces):** `5,016`
+**Character count (excluding spaces):** `5,862`
 
-**Size (in bytes):** `5,955`
+**Size (in bytes):** `6,964`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -157,7 +161,7 @@ More entries will be added in the future.
 
 </details>
 
-## [Version 4 (2023, Tuesday, July 18th at 03:49 pm PST)](#Version-3-2023-Tuesday-July-18th-at-03-49-pm-PST)
+## [Version 4 (2023, Tuesday, July 18th at 03:49 pm PST)](#Version-4-2023-Tuesday-July-18th-at-03-49-pm-PST)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
 
@@ -181,6 +185,32 @@ More entries will be added in the future.
 - [x] Updated the file history section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+## [Version 5 (2023, Tuesday, August 1st at 07:09 pm PST)](#Version-5-2023-Tuesday-August-1st-at-07-09-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 5</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the `Table of Contents` microsection
+- - [x] Added support for ProtonMail
+- - [x] Updated the counter (value: 7)
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Updated the entry for version 4
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
