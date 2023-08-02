@@ -7,12 +7,12 @@
 
 **PATH:** /// ***Corporations*** / ***TU*** / ***Tumblr***
 
-- **Status:** `Test in progress, Tumblr is succeeding so far`
-- **Checks passed:** `1` / `6` (5 checks in progress) _(as of 2023, Tuesday, July 18th)_
+- **Status:** `Test completed. Tumblr is failing.`
+- **Checks passed:** `5` / `6` (0 checks in progress) _(as of 2023, Tuesday, August 1st)_
 
-<details><summary><p><b>Tested 1 time (2023, July 3rd)</b></p></summary>
+<details><summary><p><b>Tested 1 time (2023, July 17th to 2023, July 28th)</b></p></summary>
 
-- `@seanwallawalla` Data takeout on 2023, July 17th [Score: ?/6]
+- `@seanwallawalla` Data takeout on 2023, July 17th to 2023, July 28th [Score: 5/6]
 
 > **Note** _See [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
 
@@ -24,12 +24,12 @@
 
 | Test conditions | Result |
 |---|---|
-| [`Data can be taken out without a fee`](#Fees) | `❓️` |
-| [`Data can be taken out`](#Takeout) | `❓️` |
-| [`Data can be taken out in full`](#Takeout-in-full) | `❓️` |
+| [`Data can be taken out without a fee`](#Fees) | `✅️` |
+| [`Data can be taken out`](#Takeout) | `✅️` |
+| [`Data can be taken out in full`](#Takeout-in-full) | `❌️` |
 | [`Data doesn't require hostile authorization for takeout`](#Hostile-authorization) | `✅️` |
-| [`Data can be taken out over the course of 1 month or longer`](#One-month-takeout-time) | `❓️` |
-| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#Standard-format) | `❓️` |
+| [`Data can be taken out over the course of 1 month or longer`](#One-month-takeout-time) | `✅️` |
+| [`Data can be taken out in a recognizable, standard format (such as JSON or ZIP)`](#Standard-format) | `✅️` |
 
 </details>
 
@@ -41,9 +41,9 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending. I was able to send the request, but I cannot yet confirm if fees are a requirement.
+Data can be taken out without a fee.
 
 </details>
 
@@ -53,9 +53,9 @@ No data is available, as this check is still pending. I was able to send the req
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending.
+Data takeout on Tumblr is possible, but it is far from perfect. See bwlow.
 
 </details>
 
@@ -65,9 +65,9 @@ No data is available, as this check is still pending.
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `❌️ Failing`
 
-No data is available, as this check is still pending.
+I was hoping I could have given a full 6/6 on TUmblr, but data takeout cannot be done in full. Very little data is given out, simply 2 JSON files are exported. No posts by the user, any user profile media or content is taken out. The data given is very disappointing, given it took over a week to export less than 40 kilobytes.
 
 </details>
 
@@ -77,7 +77,7 @@ No data is available, as this check is still pending.
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `✅️ sSuccess`
+> **Status:** `✅️ Success`
 
 Data takeout is not hidden, and Tumblr does not discourage users from starting a data takeout.
 
@@ -89,9 +89,9 @@ Data takeout is not hidden, and Tumblr does not discourage users from starting a
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No exact data is available, as this check is still pending. Tumblr is not yet indicating how much time a takeout can be completed in.
+Data can be taken out for a full month, minus the time the data is being processed, but a button can be pressed to ensure data takeout for a month, which is odd (it should have just been built-in)
 
 </details>
 
@@ -101,9 +101,9 @@ No exact data is available, as this check is still pending. Tumblr is not yet in
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Status:** `❓️ Pending`
+> **Status:** `✅️ Success`
 
-No data is available, as this check is still pending.
+Data is capable of being taken out in a standard format (JSON)
 
 Standard formats include, but are not limited to:
 
@@ -121,14 +121,14 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> **Checks passed:** `1` / `6` (`16.67%`)
+> **Checks passed:** `5` / `6` (`83.33%`)
 
-- [ ] Data can be taken out without a fee (pending)
-- [ ] Data can be taken out (pending)
-- [ ] Data can be taken out in full (pending)
+- [x] Data can be taken out without a fee (success)
+- [x] Data can be taken out (success)
+- [ ] Data can be taken out in full (failure)
 - [x] Doesn't require excess authorization for takeout (success)
-- [ ] Data cannot be taken out over the course of 1 month (pending)
-- [ ] Data can be taken out in a recognizable, standard format (pending)
+- [x] Data cannot be taken out over the course of 1 month (success)
+- [x] Data can be taken out in a recognizable, standard format (success)
 
 </details>
 
@@ -140,17 +140,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Tuesday, July 18th at 03:52 pm PST)`
+**File version:** `2 (2023, Tuesday, August 1st at 06:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `225`
+**Line count (including blank lines and compiler line):** `255`
 
-**Word count:** `1,031`
+**Word count:** `1,269`
 
-**Character count (including spaces):** `6,700`
+**Character count (including spaces):** `8,088`
 
-**Character count (excluding spaces):** `5,666`
+**Character count (excluding spaces):** `6,819`
 
-**Size (in bytes):** `6,748`
+**Size (in bytes):** `8,136`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -208,6 +208,36 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - - [x] Added an entry for version 1
 - [x] Added the footer
 - [ ] No other changes in version 1
+
+</details>
+
+## [Version 2 (2023, Tuesday, August 2nd at 06:54 pm PST)](#Version-2-2023-Tuesday-August-1st-at-06-54-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 2</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the title section
+- [x] Updated the test conditions section
+- [x] Updated the fees section
+- [x] AUpdateddded the takeout section
+- [x] Updated the takeout in full section
+- [x] Updated the hostile authorization section
+- [x] Updated the one month takeout time section
+- [x] Updated the standard format section
+- [x] Updated the overview section
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
