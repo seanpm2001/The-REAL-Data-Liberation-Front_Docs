@@ -1,0 +1,9 @@
+LetterCode,company,service,overall-score,out-of,fees,takeout,takeout-in-full,hostile-authorization,one-month-takeout-time,standard-format
+di,Discord-Inc,Discord,5,6,pass,pass,fail,pass,pass,pass
+go,Google-LLC,Google-Account,4,6,pass,pass,fail,pass,fail,pass
+pr,ProtonAG,Proton-Calendar,6,6,pass,pass,pass,pass,pass,pass
+pr,ProtonAG,ProtonMail,5,6,fail,pass,pass,pass,pass,pass
+qu,Quora-Inc,Quora,0,6,fail,fail,fail,fail,fail,fail
+re,Reddit-Inc,Reddit,3,6,pass,pass,fail,fail,fail,pass
+tu,Automattic,Tumblr,5,6,pass,pass,fail,pass,pass,pass
+tw,X-Corp,Twitter,4,6,pass,pass,fail,fail,pass,pass
