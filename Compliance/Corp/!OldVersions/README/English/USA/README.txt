@@ -7,7 +7,7 @@
 
 This is a database of reports of data takeout compliance by websites run by corporations.
 
-**Total count:** `7`
+**Total count:** `7` (`8` services)
 
 # [Table of Contents](#Table-of-contents)
 
@@ -15,29 +15,44 @@ This is a database of reports of data takeout compliance by websites run by corp
 
 ## [DI](#DI)
 
+**Discord Inc.**
+
 - [`Discord`](/Compliance/Corp/D/I/Discord/)
 
 ## [GO](#GO)
 
-- [`Google`](/Compliance/Corp/G/O/Google/)
+**Google LLC**
+
+- [`Google Account`](/Compliance/Corp/G/O/Google/)
 
 ## [PR](#PR)
 
+**Proton AG**
+
+- [`ProtonCalendar`](/Compliance/Corp/P/R/ProtonCalendar/)
 - [`ProtonMail`](/Compliance/Corp/P/R/ProtonMail/)
 
 ## [QU](#QU)
+
+**Quora Inc.**
 
 - [`Quora`](/Compliance/Corp/Q/U/Quora/)
 
 ## [RE](#RE)
 
+**Reddit Inc.**
+
 - [`Reddit`](/Compliance/Corp/R/E/Reddit/)
 
 ## [TU](#TU)
 
+**Automattic**
+
 - [`Tumblr`](/Compliance/Corp/T/U/Tumblr/)
 
 ## [TW](#TW)
+
+**X Corp**
 
 - [`Twitter`](/Compliance/Corp/T/W/Twitter/)
 
@@ -53,17 +68,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Tuesday, August 1st at 07:09 pm PST)`
+**File version:** `6 (2023, Wednesday, August 2nd at 12:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `228`
+**Line count (including blank lines and compiler line):** `269`
 
-**Word count:** `1,100`
+**Word count:** `1,286`
 
-**Character count (including spaces):** `6,694`
+**Character count (including spaces):** `8,184`
 
-**Character count (excluding spaces):** `5,862`
+**Character count (excluding spaces):** `6,885`
 
-**Size (in bytes):** `6,964`
+**Size (in bytes):** `8,184`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -211,6 +226,32 @@ More entries will be added in the future.
 - - [x] Updated the entry for version 4
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+## [Version 6 (2023, Wednesday, August 2nd at 12:39 pm PST)](#Version-6-2023-Wednesday-August-2nd-at-12-39-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the `Table of Contents` microsection
+- - [x] Added support for ProtonCalendar
+- - [x] Updated the counter (value: 7) with a service count of: `8`
+- - [x] Divided services up by company, adding the names of the parent companies of all 8 services
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
