@@ -17,44 +17,65 @@ This is a database of reports of data takeout compliance by websites run by corp
 
 **Discord Inc.**
 
-- [`Discord`](/Compliance/Corp/D/I/Discord/)
+- [`Discord`](/Compliance/Corp/D/I/Discord/) **Score:** `5` / `6`
 
 ## [GO](#GO)
 
 **Google LLC**
 
-- [`Google Account`](/Compliance/Corp/G/O/Google/)
+- [`Google Account`](/Compliance/Corp/G/O/Google/) **Score:** `4` / `6`
+
+<!-- Missing:
+GMail
+Google Sites (New)
+Google Sites (Classic)
+YouTube
+Google Drive
+Google Maps
+Google Play
+Other
+!-->
 
 ## [PR](#PR)
 
 **Proton AG**
 
-- [`ProtonCalendar`](/Compliance/Corp/P/R/ProtonCalendar/)
-- [`ProtonMail`](/Compliance/Corp/P/R/ProtonMail/)
+- [`ProtonCalendar`](/Compliance/Corp/P/R/ProtonCalendar/) **Score:** `6` / `6`
+- [`ProtonMail`](/Compliance/Corp/P/R/ProtonMail/) **Score:** `5` / `6`
+
+<!-- Missing:
+ProtonDrive
+ProtonVPN
+PrtoonPass
+!-->
 
 ## [QU](#QU)
 
 **Quora Inc.**
 
-- [`Quora`](/Compliance/Corp/Q/U/Quora/)
+- [`Quora`](/Compliance/Corp/Q/U/Quora/) **Score:** `0` / `6`
 
 ## [RE](#RE)
 
 **Reddit Inc.**
 
-- [`Reddit`](/Compliance/Corp/R/E/Reddit/)
+- [`Reddit`](/Compliance/Corp/R/E/Reddit/) **Score:** `3` / `6`
 
 ## [TU](#TU)
 
 **Automattic**
 
-- [`Tumblr`](/Compliance/Corp/T/U/Tumblr/)
+- [`Tumblr`](/Compliance/Corp/T/U/Tumblr/) **Score:** `5` / `6`
 
 ## [TW](#TW)
 
 **X Corp**
 
-- [`Twitter`](/Compliance/Corp/T/W/Twitter/)
+- [`Twitter`](/Compliance/Corp/T/W/Twitter/) **Score:** `4` / `6`
+
+<!-- Missing:
+Periscope
+!-->
 
 More entries will be added in the future.
 
@@ -68,17 +89,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Wednesday, August 2nd at 12:39 pm PST)`
+**File version:** `7 (2023, Wednesday, August 2nd at 12:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `269`
+**Line count (including blank lines and compiler line):** `315`
 
-**Word count:** `1,286`
+**Word count:** `1,477`
 
-**Character count (including spaces):** `8,184`
+**Character count (including spaces):** `9,471`
 
-**Character count (excluding spaces):** `6,885`
+**Character count (excluding spaces):** `7,958`
 
-**Size (in bytes):** `8,184`
+**Size (in bytes):** `9,471`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -252,6 +273,31 @@ More entries will be added in the future.
 - [x] Updated the file history section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+## [Version 7 (2023, Wednesday, August 2nd at 12:53 pm PST)](#Version-6-2023-Wednesday-August-2nd-at-12-53-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the `Table of Contents` microsection
+- - [x] Added scores next to each service
+- - [x] Added source code comments about missing sources
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
