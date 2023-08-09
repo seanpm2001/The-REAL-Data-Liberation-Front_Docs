@@ -7,7 +7,7 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (7 entries, 8 services)`](/Compliance/Corp/)
+- [`Corporations (8 entries, 9 services)`](/Compliance/Corp/)
 - [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
@@ -17,21 +17,21 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 # [File info](#File-info)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Wednesday, August 2nd at 12:43 pm PST)`
+**File version:** `7 (2023, Tuesday, August 8th at 06:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `212`
+**Line count (including blank lines and compiler line):** `235`
 
-**Word count:** `1,114`
+**Word count:** `1,253`
 
-**Character count (including spaces):** `6,974`
+**Character count (including spaces):** `7,829`
 
-**Character count (excluding spaces):** `5,855`
+**Character count (excluding spaces):** `6,569`
 
-**Size (in bytes):** `6,974`
+**Size (in bytes):** `7,829`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -49,7 +49,7 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 # [File history](#File-history)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 ## [Version 1 (2023, Thursday, June 1st at 7:06 pm PST)](#Version-1-2023-Thursday-June-1st-at-7-06-pm-PST)
 
@@ -195,6 +195,29 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - [x] Updated the file history section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+## [Version 7 (2023, Tuesday, August 8th at 06:56 pm PST)](#Version-7-2023-Tuesday-August-8th-at-06-56-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to include a service count of 9, alongside a corporation count of 8
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
