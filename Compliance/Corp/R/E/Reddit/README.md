@@ -7,19 +7,17 @@
 
 **PATH:** /// ***Corporations*** / ***RE*** / ***Reddit***
 
-- **Status:** `Test 1 completed, test 2 in progress, Reddit is failing`
-- **Checks passed:** `3` / `6` _(as of 2023, Tuesday, July 25th)_
+- **Status:** `Test 1 and 2 completed, Reddit is failing`
+- **Checks passed:** `3` / `6` _(as of 2023, Tuesday, August 8th)_
 
-<details><summary><p><b>Tested 2 times (2023, July 3rd to 2023 July 25th)</b></p></summary>
+<details><summary><p><b>Tested 2 times (2023, July 3rd to 2023 Augst 8th)</b></p></summary>
 
 - `@seanwallawalla` Data takeout on 2023, July 3rd to 2023, July 11th [Score: 3/6]
-- `@seanwallawalla2` Data takeout on 2023, July 24th to 2023, July 25th [Score: 3/6] [In progress]
+- `@seanwallawalla2` Data takeout on 2023, July 24th to 2023, August 2nd [Score: 3/6]
 
 > **Note** _See [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
 
 > **Note** _I was a day late on creating this entry, as I didn't have the time yesterday (2023, Tuesday, July 4th) - 2023, Wednesday, July 5th_
-
-> **Note** _The second data takeout has not yet formalized. - 2023, Tuesday, July 25th_
 
 </details>
 
@@ -128,12 +126,12 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 > **Checks passed:** `3` / `6` (`50.00%`)
 
-- [x] Data can be taken out without a fee (sucess)
-- [x] Data can be taken out (sucess)
+- [x] Data can be taken out without a fee (success)
+- [x] Data can be taken out (success)
 - [ ] Data can be taken out in full (fails)
 - [ ] Doesn't require excess authorization for takeout (fails)
 - [ ] Data cannot be taken out over the course of 1 month (fails)
-- [x] Data can be taken out in a recognizable, standard format (sucess)
+- [x] Data can be taken out in a recognizable, standard format (success)
 
 </details>
 
@@ -145,17 +143,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Tuesday, July 25th at 06:41 pm PST)`
+**File version:** `4 (2023, Tuesday, August 8th at 06:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `286`
+**Line count (including blank lines and compiler line):** `309`
 
-**Word count:** `1,516`
+**Word count:** `1,652`
 
-**Character count (including spaces):** `9,580`
+**Character count (including spaces):** `10,424`
 
-**Character count (excluding spaces):** `8,047`
+**Character count (excluding spaces):** `8,754`
 
-**Size (in bytes):** `9,628`
+**Size (in bytes):** `10,472`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -269,6 +267,31 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - - [x] Updated the entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+## [Version 4 (2023, Tuesday, August 8th at 06:44 pm PST)](#Version-4-2023-Tuesday-August-8th-at-06-44-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The second data takeout completed 6 days ago. The conditions were the same, so this file was updated merely to reflect the newest data takeout._
+
+> Changes
+
+- [x] Updated the title section
+- - [x] Updated the takeout status
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
