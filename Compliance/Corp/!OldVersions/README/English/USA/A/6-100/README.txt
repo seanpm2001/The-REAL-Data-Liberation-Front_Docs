@@ -7,11 +7,11 @@
 
 This is a database of reports of data takeout compliance by websites run by corporations.
 
-**Total count:** `7` (`8` services)
+**Total count:** `8` (`9` services)
 
 # [Table of Contents](#Table-of-contents)
 
-( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** **J** **K** **L** **M** **N** **O** **P** [PR](#PR) **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TU](#TU) [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
+( **0** **1** **2** **3** **4** **5** **6** **7** **8** **9** **A** **B** **C** **D** [DI](#DI) **E** **F** **G** [GO](#GO) **H** **I** [IN](#IN) **J** **K** **L** **M** **N** **O** **P** [PR](#PR) **Q** [QU](#QU) **R** [RE](#RE) **S** **T** [TU](#TU) [TW](#TW) **U** **V** **W** **X** **Y** **Z** )
 
 ## [DI](#DI)
 
@@ -34,6 +34,19 @@ Google Drive
 Google Maps
 Google Play
 Other
+!-->
+
+## [IN](#IN)
+
+**Facebook Inc. (de facto) Meta Platforms (de jure)**
+
+- [`Instagram`](/Compliance/Corp/I/N/Instagram/) **Score:** `4` / `6`
+
+<!-- Missing
+WhatsApp
+Facebook
+Threads
+Messenger
 !-->
 
 ## [PR](#PR)
@@ -89,17 +102,17 @@ More entries will be added in the future.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Wednesday, August 2nd at 12:53 pm PST)`
+**File version:** `8 (2023, Tuesday, August 8th at 6:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `315`
+**Line count (including blank lines and compiler line):** `356`
 
-**Word count:** `1,477`
+**Word count:** `1,673`
 
-**Character count (including spaces):** `9,471`
+**Character count (including spaces):** `10,739`
 
-**Character count (excluding spaces):** `7,958`
+**Character count (excluding spaces):** `9,015`
 
-**Size (in bytes):** `9,471`
+**Size (in bytes):** `10,739`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -276,9 +289,9 @@ More entries will be added in the future.
 
 </details>
 
-## [Version 7 (2023, Wednesday, August 2nd at 12:53 pm PST)](#Version-6-2023-Wednesday-August-2nd-at-12-53-pm-PST)
+## [Version 7 (2023, Wednesday, August 2nd at 12:53 pm PST)](#Version-7-2023-Wednesday-August-2nd-at-12-53-pm-PST)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 7</u></b></p></summary>
 
 **This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -298,6 +311,34 @@ More entries will be added in the future.
 - [x] Updated the file history section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+## [Version 8 (2023, Tuesday, August 8th at 06:53 pm PST)](#Version-8-2023-Tuesday-August-8th-at-06-53-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 8</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the `Table of Contents` microsection
+- - - [x] Added the `IN` nanosection
+- - [x] Added support for Instagram
+- - [x] Updated the counter (value: 8) with a service count of: `9`
+- - [x] Added more source code comments about missing sources
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Fixed typos in the entry for version 7
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
