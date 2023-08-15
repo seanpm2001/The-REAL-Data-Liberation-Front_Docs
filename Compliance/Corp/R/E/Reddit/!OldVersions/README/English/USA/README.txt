@@ -7,13 +7,14 @@
 
 **PATH:** /// ***Corporations*** / ***RE*** / ***Reddit***
 
-- **Status:** `Test 1 and 2 completed, Reddit is failing`
-- **Checks passed:** `3` / `6` _(as of 2023, Tuesday, August 8th)_
+- **Status:** `Tests 1, 2 and 3 completed, Reddit is failing`
+- **Checks passed:** `3` / `6` _(as of 2023, Tuesday, August 15th)_
 
-<details><summary><p><b>Tested 2 times (2023, July 3rd to 2023 Augst 8th)</b></p></summary>
+<details><summary><p><b>Tested 3 times (2023, July 3rd to 2023 August 15th)</b></p></summary>
 
 - `@seanwallawalla` Data takeout on 2023, July 3rd to 2023, July 11th [Score: 3/6]
 - `@seanwallawalla2` Data takeout on 2023, July 24th to 2023, August 2nd [Score: 3/6]
+- `@crikketmeme2001` Data takeout on 2023, August 14th (single day) [Score: 3/6]
 
 > **Note** _See [:octocat: `seanpm2001/Takeout_Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) for more info._
 
@@ -143,17 +144,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, August 8th at 06:44 pm PST)`
+**File version:** `5 (2023, Tuesday, August 15th at 02:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `309`
+**Line count (including blank lines and compiler line):** `335`
 
-**Word count:** `1,652`
+**Word count:** `1,821`
 
-**Character count (including spaces):** `10,424`
+**Character count (including spaces):** `11,4835`
 
-**Character count (excluding spaces):** `8,754`
+**Character count (excluding spaces):** `9,642`
 
-**Size (in bytes):** `10,472`
+**Size (in bytes):** `11,533`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -292,6 +293,31 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - [x] Updated the file history section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+## [Version 5 (2023, Tuesday, August 15th at 02:41 pm PST)](#Version-5-2023-Tuesday-August-15th-at-02-41-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 4</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The third data takeout was finished yesterday for an obscure account. This document was updated to reflect the 3rd takeout, which is the final one for now._
+
+> Changes
+
+- [x] Updated the title section
+- - [x] Updated the takeout status
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
