@@ -49,6 +49,8 @@
 
 Data can be taken out without a fee.
 
+> **Warning** _Instagram is **very hostile**, and has a high chance of suspending your account for doing a data takeout. While data can be taken out without a fee, you may have your account suspended for it._
+
 </details>
 
 ---
@@ -60,6 +62,8 @@ Data can be taken out without a fee.
 > **Status:** `✅️ Success`
 
 Data takeouts are possible, I was actually really surprised by this, based on the nature of Facebook. Unlike the other services I tested (excluding ProtonCalendar) Instagram is incredibly fast on data takeouts, generating ~3 megabytes of data in less than 5 minutes, opposed to Reddit, Twitter, and others, which took a minimum of 1 day to do about the same.
+
+> **Warning** _Instagram is **very hostile**, and has a high chance of suspending your account for doing a data takeout. While data can be taken out, you may have your account suspended for it._
 
 </details>
 
@@ -73,6 +77,8 @@ Data takeouts are possible, I was actually really surprised by this, based on th
 
 Data can be taken out in full. This was also surprising to me. There is the downside that you have to request HTML and JSON data separately, so I had to do 2 takeouts to get everything. It is highly complete, and it took less than 20 minutes for me to get all data (time to login (several times) included)
 
+> **Warning** _Instagram is **very hostile**, and has a high chance of suspending your account for doing a data takeout. While data can be taken out in full, you may have your account suspended for it._
+
 </details>
 
 ---
@@ -84,6 +90,8 @@ Data can be taken out in full. This was also surprising to me. There is the down
 > **Status:** `❌️ Failure`
 
 Data takeout is hidden behind some settings, and a password is asked for every time you go to do a data takeout. Other than that, it doesn't try to restrict you from doing a data takeout.
+
+Update from 2023, Friday, August 11th: My account was suspended 4 days after doing a data takeout. The reason cited was that the data takeout tool by Instagram violates Instagrams terms of service. Instagram is **very hostile**, I would lower the score further based on this alone, but it wouldn't fit into the rules of this project. You can read more about the exchange [:octocat: `here (seanpm2001/Instagram#suspension-2023-august-11th)`](https://github.com/seanpm2001/Instagram#suspension-2023-august-11th)
 
 </details>
 
@@ -97,6 +105,8 @@ Data takeout is hidden behind some settings, and a password is asked for every t
 
 Data can only be taken out for 4 days, which is much shorter than the 7 days or longer that other services I tested give.
 
+> **Warning** _Instagram is **very hostile**, and has a high chance of suspending your account for doing a data takeout. While data can be taken out for 4 days, you may get your account suspended after this time is up._
+
 </details>
 
 ---
@@ -108,6 +118,8 @@ Data can only be taken out for 4 days, which is much shorter than the 7 days or 
 > **Status:** `✅️ Success`
 
 Data can be taken out in a standard format. A ZIP file is given, which contains all data in acceptable formats, although you have to do 2 takeouts if you want to get both JSON and HTML data.
+
+> **Warning** _Instagram is **very hostile**, and has a high chance of suspending your account for doing a data takeout. While data can be taken out in a standard format, you may have your account suspended for it._
 
 Standard formats include, but are not limited to:
 
@@ -144,17 +156,17 @@ Standard formats must have high levels of recognition, and cannot be a special f
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Tuesday, August 8th at 06:38 pm PST)`
+**File version:** `2 (2023, Tuesday, August 15th at 02:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `276`
 
-**Word count:** `1,204`
+**Word count:** `1,679`
 
-**Character count (including spaces):** `7,616`
+**Character count (including spaces):** `10,644`
 
-**Character count (excluding spaces):** `6,414`
+**Character count (excluding spaces):** `6,451`
 
-**Size (in bytes):** `7,664`
+**Size (in bytes):** `10,692`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -212,6 +224,43 @@ Standard formats must have high levels of recognition, and cannot be a special f
 - - [x] Added an entry for version 1
 - [x] Added the footer
 - [ ] No other changes in version 1
+
+</details>
+
+## [Version 2 (2023, Tuesday, August 15th at 02:38 pm PST)](#Version-1-2023-Tuesday-August-15th-at-02-38-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 2</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This update was made to highlight Instagram hostilities._
+
+> Changes
+
+- [x] Updated the fees section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the takeout section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the takeout in full section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the hostile authorization section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the one month takeout time section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the standard format section
+- - [x] Added information about account suspension and hostilities
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+</details>
 
 </details>
 
