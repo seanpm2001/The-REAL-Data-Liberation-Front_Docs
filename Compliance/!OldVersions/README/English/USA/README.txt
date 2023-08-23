@@ -7,7 +7,7 @@
 
 A listing of reports of data takeout compliance by business type. Currently, only corporations are included.
 
-- [`Corporations (8 entries, 9 services)`](/Compliance/Corp/)
+- [`Corporations (9 entries, 10 services)`](/Compliance/Corp/)
 - [`Organizations (0 entries)`](/Compliance/Org/)
 - Other (coming soon)
 
@@ -21,17 +21,17 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Tuesday, August 8th at 06:56 pm PST)`
+**File version:** `8 (2023, Tuesday, August 22nd at 05:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `235`
+**Line count (including blank lines and compiler line):** `259`
 
-**Word count:** `1,253`
+**Word count:** `1,404`
 
-**Character count (including spaces):** `7,829`
+**Character count (including spaces):** `8,753`
 
-**Character count (excluding spaces):** `6,569`
+**Character count (excluding spaces):** `7,338`
 
-**Size (in bytes):** `7,829`
+**Size (in bytes):** `8,753`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -200,7 +200,7 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 
 ## [Version 7 (2023, Tuesday, August 8th at 06:56 pm PST)](#Version-7-2023-Tuesday-August-8th-at-06-56-pm-PST)
 
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 6</u></b></p></summary>
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 7</u></b></p></summary>
 
 **This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -218,6 +218,30 @@ A listing of reports of data takeout compliance by business type. Currently, onl
 - [x] Updated the file history section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+## [Version 8 (2023, Tuesday, August 22nd at 05:48 pm PST)](#Version-8-2023-Tuesday-August-22nd-at-05-48-pm-PST)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the entry for version 8</u></b></p></summary>
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the main list
+- - [x] Updated the corporation count to include a service count of 10, alongside a corporation count of 9
+- [x] Updated the file info section
+- - [x] Updated the file version timestamp
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (no spaces)
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the byte count
+- [x] Updated the file history section
+- - [x] Corrected a typo in the entry for version 7
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
